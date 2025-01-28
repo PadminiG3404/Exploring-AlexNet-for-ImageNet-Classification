@@ -23,15 +23,16 @@ This github repository demonstrates the implementation of **AlexNet** for image 
 To explore and run this project, follow these steps:
 
 1. Open the Colab notebook using the link below:
-   [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1xxJVp0L6WoaWkKi4cW18-oTo3OCyEpPM?usp=sharing)
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1xxJVp0L6WoaWkKi4cW18-oTo3OCyEpPM?usp=sharing)
 
-2. Execute the cells sequentially to:
+3. Execute the cells sequentially to:
    - Load and preprocess the ImageNet dataset.
    - Train the AlexNet model using transfer learning and fine-tuning.
    - Visualize the results, including performance metrics and training progress.
 
-3. Download the project documentation for in-depth insights and methodology:
-  [![Project Documentation](https://drive.google.com/drive/folders/YOUR_DOCUMENTATION_LINK)](https://drive.google.com/file/d/1CEXEDjnSd4ZIbAAucRzi2b82pgHqU06a/view?usp=sharing))
+4. Download the project documentation for in-depth insights and methodology:
+[![Project Documentation](https://drive.google.com/drive/folders/YOUR_DOCUMENTATION_LINK)](https://drive.google.com/file/d/1CEXEDjnSd4ZIbAAucRzi2b82pgHqU06a/view?usp=sharing))
+[![Project Documentation](https://drive.google.com/file/d/1CEXEDjnSd4ZIbAAucRzi2b82pgHqU06a/view?usp=sharing)]
 ---
 
 ## **Results Summary**
