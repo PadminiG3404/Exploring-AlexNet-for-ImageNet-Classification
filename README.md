@@ -1,6 +1,10 @@
 # **Exploring AlexNet for ImageNet Classification**
 
-This project demonstrates the implementation of **AlexNet** for image classification on the ImageNet dataset. By leveraging **transfer learning** and **fine-tuning** techniques, it achieves high accuracy and robust classification performance. The project consolidates key results, metrics, and visualizations into a single Jupyter notebook.
+**Unleashing Vision, One Image at a Time**
+
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1xxJVp0L6WoaWkKi4cW18-oTo3OCyEpPM?usp=sharing)
+
+This github repository demonstrates the implementation of **AlexNet** for image classification on the ImageNet dataset. By leveraging **transfer learning** and **fine-tuning** techniques, it achieves high accuracy and robust classification performance. The project consolidates key results, metrics, and visualizations into a single **Jupyter/Colab notebook** notebook, making it accessible and easy to use.
 
 ---
 
@@ -14,12 +18,18 @@ This project demonstrates the implementation of **AlexNet** for image classifica
 
 ## **Usage**
 
-1. Open the provided Jupyter notebook: `AlexNet_ImageNet_Classification.ipynb`.
+To explore and run this project, follow these steps:
+
+1. Open the Colab notebook using the link below:
+   [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1xxJVp0L6WoaWkKi4cW18-oTo3OCyEpPM?usp=sharing)
+
 2. Execute the cells sequentially to:
    - Load and preprocess the ImageNet dataset.
    - Train the AlexNet model using transfer learning and fine-tuning.
    - Visualize the results, including performance metrics and training progress.
 
+3. Download the project documentation for in-depth insights and methodology:
+   [Project Documentation]([https://drive.google.com/drive/folders/YOUR_DOCUMENTATION_LINK](https://drive.google.com/file/d/1CEXEDjnSd4ZIbAAucRzi2b82pgHqU06a/view?usp=sharing))
 ---
 
 ## **Results Summary**
@@ -29,14 +39,38 @@ This project demonstrates the implementation of **AlexNet** for image classifica
 - **Learning Curve**: Consistent training loss reduction and early convergence of validation accuracy.
 
 ### **Visualizations**
-| Metric      | Value          |
-|-------------|----------------|
-| Accuracy    | 93.25%         |
-| Precision   | High across all classes |
-| Recall      | High across all classes |
-| F1-Score    | High across all classes |
+| Metric      | Value      |
+|-------------|------------|
+| Accuracy    | 93.25%     |
+| Precision   | 93.50%     |
+| Recall      | 93.24%     |
+| F1-Score    | 93.31%     |
 
-*(Add confusion matrix and learning curve images here for better clarity.)*
+Below are key visualizations from the project:
+
+#### **1. ImageNet Dataset Sample**
+![ImageNet Dataset](images/imagenet_visualization.png)
+
+#### **2. Training Loss Over Epochs**
+![Training Loss](images/training_loss.png)
+
+#### **3. Validation Accuracy Over Epochs**
+![Validation Accuracy](images/validation_accuracy.png)
+
+#### **4. Learning Curve**
+![Learning Curve](images/learning_curve.png)
+
+#### **5. Overall Metrics**
+![Overall Metrics](images/overall_metrics.png)
+
+#### **6. Confusion Matrix**
+![Confusion Matrix](images/confusion_matrix.png)
+
+#### **7. Model Performance Visualization**
+![Model Performance](images/model_performance.png)
+
+#### **8. Model Architecture**
+![Model Architecture](images/model_architecture.png)
 
 ---
 
@@ -50,9 +84,8 @@ This project demonstrates the implementation of **AlexNet** for image classifica
 
 ## **Requirements**
 
-To run the notebook, ensure you have the following installed:
+To run the notebook, ensure you have the following installed in your environment (if running locally):
 - **Python**: Version 3.8 or later
-- **Jupyter Notebook**
 - **Libraries**: 
   - PyTorch
   - torchvision
