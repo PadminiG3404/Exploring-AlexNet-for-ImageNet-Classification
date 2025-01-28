@@ -31,7 +31,7 @@ To explore and run this project, follow these steps:
    - Visualize the results, including performance metrics and training progress.
 
 4. Download the project documentation for in-depth insights and methodology:
-[Project Documentation](https://drive.google.com/drive/folders/[https://drive.google.com/file/d/1CEXEDjnSd4ZIbAAucRzi2b82pgHqU06a/view?usp=drive_link])
+[Project Documentation](https://drive.google.com/file/d/1CEXEDjnSd4ZIbAAucRzi2b82pgHqU06a/view?usp=drive_link)
 
 
 ## **Results Summary**
